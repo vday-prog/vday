@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.ee9dc6ea.css",
-    "main.js": "/react-gh-pages/static/js/main.94c832ee.js",
-    "static/media/cutecat.gif": "/react-gh-pages/static/media/cutecat.5f608f863af4a5db333c.gif",
-    "static/media/vday-flower.png": "/react-gh-pages/static/media/vday-flower.c8867d7b48d525bf8851.png",
-    "static/media/heart.png": "/react-gh-pages/static/media/heart.47209c5b4e60cd6d1bef.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.ee9dc6ea.css.map": "/react-gh-pages/static/css/main.ee9dc6ea.css.map",
-    "main.94c832ee.js.map": "/react-gh-pages/static/js/main.94c832ee.js.map"
+    "main.css": "/vday/static/css/main.ee9dc6ea.css",
+    "main.js": "/vday/static/js/main.d88ba847.js",
+    "static/media/cutecat.gif": "/vday/static/media/cutecat.5f608f863af4a5db333c.gif",
+    "static/media/vday-flower.png": "/vday/static/media/vday-flower.c8867d7b48d525bf8851.png",
+    "static/media/heart.png": "/vday/static/media/heart.47209c5b4e60cd6d1bef.png",
+    "index.html": "/vday/index.html",
+    "main.ee9dc6ea.css.map": "/vday/static/css/main.ee9dc6ea.css.map",
+    "main.d88ba847.js.map": "/vday/static/js/main.d88ba847.js.map"
   },
   "entrypoints": [
     "static/css/main.ee9dc6ea.css",
-    "static/js/main.94c832ee.js"
+    "static/js/main.d88ba847.js"
   ]
 }
