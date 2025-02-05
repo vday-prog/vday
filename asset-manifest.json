@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.ee9dc6ea.css",
+    "main.js": "/react-gh-pages/static/js/main.a1e547a9.js",
+    "static/media/cutecat.gif": "/react-gh-pages/static/media/cutecat.5f608f863af4a5db333c.gif",
+    "static/media/vday-flower.png": "/react-gh-pages/static/media/vday-flower.c8867d7b48d525bf8851.png",
+    "static/media/heart.png": "/react-gh-pages/static/media/heart.47209c5b4e60cd6d1bef.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.ee9dc6ea.css.map": "/react-gh-pages/static/css/main.ee9dc6ea.css.map",
+    "main.a1e547a9.js.map": "/react-gh-pages/static/js/main.a1e547a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee9dc6ea.css",
+    "static/js/main.a1e547a9.js"
+  ]
+}
